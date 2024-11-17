@@ -26,13 +26,6 @@ EventSync is an efficient event management system where club heads can create ev
   - **Authentication**: Secure user authentication for club heads, faculty, and HODs.
   - **Cloud Firestore**: Stores all user information (faculty, students, HODs), department data, venues, and event details securely.
 
----
-
-### Screenshots
-
-![Dashboard](https://via.placeholder.com/200x300.png?text=Dashboard)
-![Event Request](https://via.placeholder.com/200x300.png?text=Event+Request)
-![Calendar View](https://via.placeholder.com/200x300.png?text=Calendar+View)
 
 ---
 
